@@ -1,0 +1,16 @@
+<html>
+    <head>
+     <title>自己紹介</title>
+    </head>
+    <body>
+        <h1>自己紹介</h1>
+        <p>プロフィール</p>
+        <p>好きな場所:<a htef="https://www.tokyodisneyresort.jp/">東京ディズニーリゾート</p>
+        <p>ハンバーグが好きです。<img src="./360px-ハンバーグ.jpg" alt="ハンバーグの画像"></p>
+        <h2>好きな色</h2>
+        <ul>
+            <li>紫</li>
+            <li>青</li>
+        </ul>
+    </body>
+</html>
